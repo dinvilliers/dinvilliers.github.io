@@ -9,6 +9,7 @@ import juneau from "../images/juneau.jpg"
 import columbus from "../images/columbus.jpg"
 import noora from "../images/noora.jpg"
 import alaska from "../images/alaska.jpg"
+import asif from "../images/asifclueless.jpeg"
 
 const slides = [
  {
@@ -21,15 +22,20 @@ const slides = [
     image: alaska,
     link: "alaska"
   },
-  {
-    title: "Juneau",
-    image: juneau,
-    link: "juneau"
-  },
     {
     title: "Columbus",
     image: columbus, 
     link: "columbus"
+  },
+  {
+    title: "As If",
+    image: asif,
+    link: "asif"
+  },
+  {
+    title: "Juneau",
+    image: juneau,
+    link: "juneau"
   }
 ];
 

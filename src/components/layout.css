@@ -646,9 +646,30 @@ button {
   color: black;
   font-size: 7vw;
   z-index: 15;
-  top: 40%;
+  top: 20%;
   position: absolute;
-  padding-left: 1%;
+  padding-left: 11%;
+}
+
+.contact-form {
+  font-size: 2vw;
+  display: grid;
+}
+
+.contact-form input,
+.contact-form select {
+  float: right;
+  width: 60%;
+  line-height: 5px;
+}
+
+.contact-form select {
+  padding: 5px;
+  width: 60%;
+}
+
+.message-box input {
+  line-height: 4.5;
 }
 
 .contact span {
@@ -714,6 +735,44 @@ button {
 
 .social-icons img {
   width: 5vw;
+}
+
+.asifiphonecollage {
+  width: 66%;
+  padding-bottom: 100px;
+}
+
+.asifcolourscheme {
+  width: 75%;
+}
+
+.asiflogo {
+  width: 26%;
+}
+
+.as-if-paragraph:last-child, .asiflogo {
+  padding-bottom: 100px;
+}
+
+.asifcaption, .pageparagraph {
+  max-width: inherit;
+  font-size: 1em;
+}
+
+.as-if-paragraph-next {
+  width: 75%;
+  float: initial;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.as-if-images img {
+  max-width: 20%;
+}
+
+.as-if-video {
+  width: 20%;
 }
 
 @-webkit-keyframes rotation {

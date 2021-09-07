@@ -51,7 +51,7 @@ const Alaska = () => (
 		    	  <p className="about-skill">Tools</p>
 				    <ul className="about-skill-list skills-li">
 				        <li>HTML</li>
-				        <li>CSSS</li>
+				        <li>CSS</li>
 				        <li>PHP</li>
 				        <li>JavaScript</li>
 				    </ul>

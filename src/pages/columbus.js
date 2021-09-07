@@ -41,7 +41,7 @@ const Columbus = () => (
 	    </div>
 	    <div className="page-content">
 		    <div className="page-header">
-		    	<h2>An interactive map based off my favourite film - Columbus (2017) directed by Kogonada</h2>
+		    	<h2>An interactive map based off my favourite film, Columbus (2017)</h2>
 		    	<Link className="project-redirect" to="https://columbus.dinvilliers.com">Visit Site</Link>
 		    </div>
 		    	<p className="page-paragraph">
