@@ -1,14 +1,14 @@
 var plugins = [{
-      plugin: require('/Users/joanna/Desktop/dinvilliers.github.io 27june/node_modules/gatsby-plugin-arengu-forms/gatsby-ssr'),
+      plugin: require('/Users/joanna/Desktop/dinvilliers.github.io/node_modules/gatsby-plugin-arengu-forms/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/joanna/Desktop/dinvilliers.github.io 27june/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/joanna/Desktop/dinvilliers.github.io/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/joanna/Desktop/dinvilliers.github.io 27june/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/Users/joanna/Desktop/dinvilliers.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"src/images/favicon.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"de7eb4226c6395aa7dfa26b3fb4273a1"},
     },{
-      plugin: require('/Users/joanna/Desktop/dinvilliers.github.io 27june/node_modules/gatsby-plugin-google-gtag/gatsby-ssr'),
+      plugin: require('/Users/joanna/Desktop/dinvilliers.github.io/node_modules/gatsby-plugin-google-gtag/gatsby-ssr'),
       options: {"plugins":[],"trackingIds":["G-PLD47TB1DB"]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
