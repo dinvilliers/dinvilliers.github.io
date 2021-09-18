@@ -7,6 +7,7 @@ const preferDefault = m => (m && m.default) || m
 exports.components = {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/joanna/Desktop/dinvilliers.github.io/.cache/dev-404-page.js"))),
 =======
 >>>>>>> 3be716ac16249e78c60674b5967144ffc6be5103
@@ -20,6 +21,8 @@ exports.components = {
   "component---src-pages-juneau-js": hot(preferDefault(require("/Users/joanna/Desktop/dinvilliers.github.io/src/pages/juneau.js"))),
   "component---src-pages-noora-js": hot(preferDefault(require("/Users/joanna/Desktop/dinvilliers.github.io/src/pages/noora.js")))
 =======
+=======
+>>>>>>> parent of c942a9ee (2021 update)
   "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/joanna/Desktop/dinvilliers.github.io 27june/.cache/dev-404-page.js"))),
   "component---src-pages-404-js": hot(preferDefault(require("/Users/joanna/Desktop/dinvilliers.github.io 27june/src/pages/404.js"))),
   "component---src-pages-about-js": hot(preferDefault(require("/Users/joanna/Desktop/dinvilliers.github.io 27june/src/pages/about.js"))),
