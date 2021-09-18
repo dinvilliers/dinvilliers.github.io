@@ -5,7 +5,10 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
+<<<<<<< HEAD
   "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/joanna/Desktop/dinvilliers.github.io/.cache/dev-404-page.js"))),
+=======
+>>>>>>> 3be716ac16249e78c60674b5967144ffc6be5103
   "component---src-pages-404-js": hot(preferDefault(require("/Users/joanna/Desktop/dinvilliers.github.io/src/pages/404.js"))),
   "component---src-pages-about-js": hot(preferDefault(require("/Users/joanna/Desktop/dinvilliers.github.io/src/pages/about.js"))),
   "component---src-pages-alaska-js": hot(preferDefault(require("/Users/joanna/Desktop/dinvilliers.github.io/src/pages/alaska.js"))),
