@@ -3,6 +3,7 @@
 <p>
   My portfolio was created with Gatsby and deployed with GitHub Pages
   <br>
+  <br>
   https://dinvilliers.com
 </p>
 
