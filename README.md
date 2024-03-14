@@ -5,6 +5,5 @@
   https://dinvilliers.com
 </p>
 
-![Portfolio website]([http://url/to/img.png](https://github.com/dinvilliers/dinvilliers.github.io/blob/develop/portfolio.png?raw=true)
-
-![Portfolio website 2]([http://url/to/img.png](https://github.com/dinvilliers/dinvilliers.github.io/blob/develop/portfolio2.png?raw=true)
+![Portfolio website](https://github.com/dinvilliers/dinvilliers.github.io/blob/develop/portfolio.png?raw=true)
+![Portfolio website dark theme](https://github.com/dinvilliers/dinvilliers.github.io/blob/develop/portfolio2.png?raw=true)
