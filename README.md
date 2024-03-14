@@ -1,7 +1,7 @@
 # Portfolio 2024
 
 <p>
-  Welcome to my portfolio. It was created with Gatsby and deployed with GitHub Pages  
+  My portfolio was created with Gatsby and deployed with GitHub Pages
   <br>
   https://dinvilliers.com
 </p>
