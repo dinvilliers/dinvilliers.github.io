@@ -50,8 +50,8 @@ return (
         delay: 1
       }}
     className="about-main">
-        I am a recent Computer Science graduate from London South Bank
-        University
+        For the past few years, I've been studying Computer Science at London South Bank
+        University. 
     </motion.p>
     </div>
     </div>
@@ -129,9 +129,9 @@ return (
       <img alt="Me" className="about-image" src={me}/>
 
       <p className="about-career">
-      I am seeking full time employment abroad from October 2021 onwards.
+      I am seeking full time employment in Paris from August 2021 onwards.
       <br />
-       <span className="about-note">P.S. I am based in London.</span>
+       <span className="about-note">P.S. I am learning French.</span>
        <br />
       <Link to="/contact"><img alt="get in touch hand icon" className="getintouchsvg" src={getintouch} /></Link>
       </p>

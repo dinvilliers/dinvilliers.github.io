@@ -7,35 +7,29 @@ import previcon from "../images/prev.png"
 import nexticon from "../images/next.png"
 import juneau from "../images/juneau.jpg"
 import columbus from "../images/columbus.jpg"
-import noora from "../images/noora.jpg"
+import thecar from "../images/thecar.jpg"
 import alaska from "../images/alaska.jpg"
-import asif from "../images/asifclueless.jpeg"
 
 const slides = [
  {
-    title: "Noora",
-    image: noora,
-    link: "noora"
+    title: "The Car",
+    image: thecar,
+    link: "thecar"
   },
   {
     title: "Alaska",
     image: alaska,
     link: "alaska"
   },
-    {
-    title: "Columbus",
-    image: columbus, 
-    link: "columbus"
-  },
-  {
-    title: "As If",
-    image: asif,
-    link: "asif"
-  },
   {
     title: "Juneau",
     image: juneau,
     link: "juneau"
+  },
+    {
+    title: "Columbus",
+    image: columbus, 
+    link: "columbus"
   }
 ];
 

@@ -5,7 +5,6 @@ module.exports = {
     author: `Wolfgang D'Invilliers-Saint-Laurent`,
   },
   plugins: [
-  	`gatsby-plugin-arengu-forms`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,

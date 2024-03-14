@@ -71,30 +71,6 @@ body::after {
   font-display: swap;
 }
 
-@font-face {
-  font-family: IBM Plex Sans Light;
-  font-weight: 400;
-  font-style: normal;
-  src: url("../fonts/IBMPlexSerif-Light.woff2") format("woff2"),
-       url("../fonts/IBMPlexSerif-Light.woff") format("woff"),
-       url("../fonts/IBMPlexSerif-Light.ttf") format("truetype"),
-       url("../fonts/IBMPlexSerif-Light.eot") format("embedded-opentype");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: IBM Plex Sans Regular;
-  font-weight: 400;
-  font-style: normal;
-  src: url("../fonts/IBMPlexSans-Regular.woff2") format("woff2"),
-       url("../fonts/IBMPlexSans-Regular.woff") format("woff"),
-       url("../fonts/IBMPlexSans-Regular.ttf") format("truetype"),
-       url("../fonts/IBMPlexSans-Regular.eot") format("embedded-opentype");
-  font-display: swap;
-}
-
-
-
 
 .main-links {
   padding: 20px;
@@ -160,7 +136,7 @@ body::after {
     float: right;
     padding: 0 50px 0px 0;
     font-size: 3vw;
-    font-family: IBM Plex Sans Regular,sans-serif;
+    font-family: Helvetica Neue,sans-serif;
     letter-spacing: 2px;
 }
 
@@ -194,7 +170,7 @@ body::after {
 .about-more {
 	 top: 200px;
     font-size: 2vw;
-    font-family: IBM Plex Sans Regular,sans-serif;
+    font-family: Helvetica Neue,sans-serif;
     padding: 8% 10%;
     width: 80%;
     text-align: center;
@@ -429,6 +405,11 @@ button {
   z-index: 999;
 }
 
+
+.thecarmain {
+  object-position: top !important;
+}
+
 .page-image {
   /* change after page transitons is ready
   position: relative;
@@ -469,7 +450,7 @@ button {
     left: 200px;
     z-index: 20;
     color: white;
-    font-family: Briller, IBM Plex Sans Regular,sans-serif;
+    font-family: Briller, Helvetica Neue,sans-serif;
     text-transform: uppercase;
     text-align: center;
     letter-spacing: -0.1ch;
@@ -502,7 +483,7 @@ button {
   padding-right: 20px;
   font-size: 14px;
   opacity: .8;
-  font-family: IBM Plex Sans Regular,sans-serif;
+  font-family: Helvetica Neue,sans-serif;
   font-size: 24px;
   line-height: 1.7;
   width: 95%;
@@ -573,7 +554,7 @@ button {
   padding: 20px;
 }
 
-.noora-images img {
+.thecar-images img {
   max-width: 100%;
   padding-bottom: 70px;
   width: 90%;
@@ -644,7 +625,7 @@ button {
   line-height: 2.7;
   margin: auto;
   width: 70%;
-  font-family: Briller, IBM Plex Sans Regular,sans-serif;;
+  font-family: Briller, Helvetica Neue,sans-serif;;
   flex: 0 0 65%;
   text-align: -moz-center;
   text-align: -webkit-center;
@@ -670,30 +651,9 @@ button {
   color: black;
   font-size: 7vw;
   z-index: 15;
-  top: 20%;
+  top: 40%;
   position: absolute;
-  padding-left: 11%;
-}
-
-.contact-form {
-  font-size: 2vw;
-  display: grid;
-}
-
-.contact-form input,
-.contact-form select {
-  float: right;
-  width: 60%;
-  line-height: 5px;
-}
-
-.contact-form select {
-  padding: 5px;
-  width: 60%;
-}
-
-.message-box input {
-  line-height: 4.5;
+  padding-left: 1%;
 }
 
 .contact span {
@@ -759,44 +719,6 @@ button {
 
 .social-icons img {
   width: 5vw;
-}
-
-.asifiphonecollage {
-  width: 66%;
-  padding-bottom: 100px;
-}
-
-.asifcolourscheme {
-  width: 75%;
-}
-
-.asiflogo {
-  width: 26%;
-}
-
-.as-if-paragraph:last-child, .asiflogo {
-  padding-bottom: 100px;
-}
-
-.asifcaption, .pageparagraph {
-  max-width: inherit;
-  font-size: 1em;
-}
-
-.as-if-paragraph-next {
-  width: 75%;
-  float: initial;
-  margin: auto;
-  text-align: center;
-  padding-bottom: 40px;
-}
-
-.as-if-images img {
-  max-width: 20%;
-}
-
-.as-if-video {
-  width: 20%;
 }
 
 @-webkit-keyframes rotation {
