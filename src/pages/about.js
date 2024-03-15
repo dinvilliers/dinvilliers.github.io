@@ -50,8 +50,7 @@ return (
         delay: 1
       }}
     className="about-main">
-        For the past few years, I've been studying Computer Science at London South Bank
-        University. 
+        A dynamic creative thinker with a proven track record and extensive knowledge of building and designing websites.
     </motion.p>
     </div>
     </div>
@@ -73,7 +72,9 @@ return (
         <li>HTML</li>
         <li>CSS</li>
         <li>JavaScript</li>
-        <li>React JS</li>
+        <li>React</li>
+        <li>UI</li>
+        <li>UX</li>
     </ul>
     
     
@@ -91,7 +92,7 @@ return (
     </motion.div>
 
    
-   <h3 className="university-title">Computer Science BSc - London South Bank University</h3> 
+   <h3 className="university-title">Computer Science BSc (Hons) - 2:1 - London South Bank University</h3> 
     <div className="university">
        <ul>  
        <li>Skills for Academic Study</li>
@@ -129,9 +130,9 @@ return (
       <img alt="Me" className="about-image" src={me}/>
 
       <p className="about-career">
-      I am seeking full time employment in Paris from August 2021 onwards.
+      I am currently seeking <br /> full time employment.
       <br />
-       <span className="about-note">P.S. I am learning French.</span>
+       <span className="about-note">P.S. I am open to relocation.</span>
        <br />
       <Link to="/contact"><img alt="get in touch hand icon" className="getintouchsvg" src={getintouch} /></Link>
       </p>
