@@ -7,6 +7,7 @@
   "dependencies": {
     "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
     "@types/webpack": "^4.41.22",
+    "caniuse-lite": "^1.0.30001596",
     "chokidar": "^3.4.2",
     "framer-motion": "^2.6.5",
     "gatsby": "^2.25.1",

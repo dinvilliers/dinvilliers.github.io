@@ -405,6 +405,11 @@ button {
   z-index: 999;
 }
 
+
+.thecarmain {
+  object-position: top !important;
+}
+
 .page-image {
   /* change after page transitons is ready
   position: relative;
@@ -549,7 +554,7 @@ button {
   padding: 20px;
 }
 
-.noora-images img {
+.thecar-images img {
   max-width: 100%;
   padding-bottom: 70px;
   width: 90%;

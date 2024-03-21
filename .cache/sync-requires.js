@@ -13,6 +13,6 @@ exports.components = {
   "component---src-pages-contact-js": hot(preferDefault(require("/Users/admin/Desktop/dinvilliers.github.io/src/pages/contact.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/admin/Desktop/dinvilliers.github.io/src/pages/index.js"))),
   "component---src-pages-juneau-js": hot(preferDefault(require("/Users/admin/Desktop/dinvilliers.github.io/src/pages/juneau.js"))),
-  "component---src-pages-noora-js": hot(preferDefault(require("/Users/admin/Desktop/dinvilliers.github.io/src/pages/noora.js")))
+  "component---src-pages-thecar-js": hot(preferDefault(require("/Users/admin/Desktop/dinvilliers.github.io/src/pages/thecar.js")))
 }
 

@@ -7,14 +7,14 @@ import previcon from "../images/prev.png"
 import nexticon from "../images/next.png"
 import juneau from "../images/juneau.jpg"
 import columbus from "../images/columbus.jpg"
-import noora from "../images/noora.jpg"
+import thecar from "../images/thecar.jpg"
 import alaska from "../images/alaska.jpg"
 
 const slides = [
  {
-    title: "Noora",
-    image: noora,
-    link: "noora"
+    title: "The Car",
+    image: thecar,
+    link: "thecar"
   },
   {
     title: "Alaska",
