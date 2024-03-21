@@ -550,6 +550,13 @@ button {
    max-width: 100%;
 }
 
+.alaska-images img {
+  max-width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
 .page-header {
   padding: 20px;
 }
