@@ -6,9 +6,9 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import alaska from "../images/alaska.jpg"
 import alaska1 from "../images/Alaska Wordpress Theme.png"
-import alaska2 from "../images/03_alaska.png"
-import alaska3 from "../images/02_alaska.png"
-import alaska4 from "../images/thelma sketch 2.png"
+import alaska2 from "../images/alaska page.png"
+import alaska3 from "../images/alaska main.png"
+import alaska4 from "../images/alaska sketch.png"
 import ScrollForMore from "../components/scrollForMore";
 
 const transition = { duration: 1.4, ease: [0.6, 0.01, -0.05, 0.9] };

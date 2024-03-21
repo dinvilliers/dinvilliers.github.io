@@ -9,6 +9,7 @@ exports.components = {
   "component---src-pages-404-js": hot(preferDefault(require("/Users/admin/Desktop/dinvilliers.github.io/src/pages/404.js"))),
   "component---src-pages-about-js": hot(preferDefault(require("/Users/admin/Desktop/dinvilliers.github.io/src/pages/about.js"))),
   "component---src-pages-alaska-js": hot(preferDefault(require("/Users/admin/Desktop/dinvilliers.github.io/src/pages/alaska.js"))),
+  "component---src-pages-asif-js": hot(preferDefault(require("/Users/admin/Desktop/dinvilliers.github.io/src/pages/asif.js"))),
   "component---src-pages-columbus-js": hot(preferDefault(require("/Users/admin/Desktop/dinvilliers.github.io/src/pages/columbus.js"))),
   "component---src-pages-contact-js": hot(preferDefault(require("/Users/admin/Desktop/dinvilliers.github.io/src/pages/contact.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/admin/Desktop/dinvilliers.github.io/src/pages/index.js"))),

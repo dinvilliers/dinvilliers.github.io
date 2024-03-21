@@ -5,6 +5,7 @@ import svg from "../images/hand.svg"
 import github from "../images/github.png"
 import dribbble from "../images/dribbble.png"
 import email from "../images/email.png"
+import linkedin from "../images/linkedin.png"
 
   const menuBackgroundOriginal = () => {
       document.getElementsByTagName("main")[0].style.display = 'initial';
@@ -88,6 +89,7 @@ const Navigation = ({toggleMenu, setToggleMenu}) => (
         </div>
       </ul>
       <div className="social-icons">
+        <a href="https://www.linkedin.com/in/dinvilliers/"><img src={linkedin} alt="linkedin"/></a>
 	      <a href="https://github.com/dinvilliers"><img src={github} alt="github"/></a>
 	      <a href="https://dribbble.com/dinvilliers"><img src={dribbble} alt="dribbble"/></a>
 	      <a href="mailto:hey@dinvillers.com"><img src={email} alt="email"/></a>

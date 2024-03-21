@@ -63,6 +63,11 @@ body {
   background-color: ${props => props.theme.title};
 }
 
+.contact,
+.project-contact {
+  color: ${props => props.theme.text};
+}
+
 `
 
 

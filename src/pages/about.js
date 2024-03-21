@@ -81,7 +81,6 @@ return (
     <p className="about-skill learning">Learning</p>
     <ul className="about-skill-list">
         <li>Node JS</li>
-        <li>React Native</li>
         <li>Swift</li>
     </ul>
     

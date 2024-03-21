@@ -41,11 +41,12 @@ const TheCar = () => (
 	    </div>
 	    <div className="page-content">
 		    <div className="page-header">
-		    	<h2>Landing page</h2>
+		    	<h2>Countdown landing page</h2>
 		    	<Link className="project-redirect" to="https://thecar.dinvilliers.com/">Link</Link>
 		    </div>
 		    	<p className="page-paragraph">
 		    		A basic but stylish countdown landing page until Arctic Monkeys' 7th studio album is released.
+		    		It was designed by UI/UX designer, Andrea Scandurra.
 		    	 </p>
 		    	 <div className="skills-table">
 		    	  <p className="about-skill">Tools</p>

@@ -525,6 +525,17 @@ button {
   display: block;
 }
 
+.as-if-video {
+  width: 30% !important;
+}
+
+.email-mouse {
+  position: absolute;
+  width: 6vw;
+  margin-top: 5vw;
+  margin-left: -5vw;
+}
+
 .page-video-first:last-child {
   padding-bottom: 70px;
 }
@@ -552,9 +563,9 @@ button {
 
 .alaska-images img {
   max-width: 75%;
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  display: block;
 }
 
 .page-header {
@@ -714,7 +725,7 @@ button {
     text-align: center;
 }
 
-.calendly-link {
+.project-contact {
     color: black;
     font-style: italic;
     text-decoration: underline;
@@ -726,6 +737,44 @@ button {
 
 .social-icons img {
   width: 5vw;
+}
+
+.asifiphonecollage {
+  width: 66%;
+  padding-bottom: 100px;
+}
+
+.asifcolourscheme {
+  width: 75%;
+}
+
+.asiflogo {
+  width: 26%;
+}
+
+.as-if-paragraph:last-child, .asiflogo {
+  padding-bottom: 100px;
+}
+
+.asifcaption, .pageparagraph {
+  max-width: inherit;
+  font-size: 1em;
+}
+
+.as-if-paragraph-next {
+  width: 75%;
+  float: initial;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.as-if-images img {
+  max-width: 20%;
+}
+
+.as-if-video {
+  width: 20%;
 }
 
 @-webkit-keyframes rotation {
@@ -811,12 +860,19 @@ button {
       font-size: 5vw;
     }
 
+    .email-mouse {
+      visibility: hidden;
+    }
+
 }  
 
 @media only screen and (min-width: 250px) and (max-width: 1024px) {
     .slide {
       height: 100vh;
       width: 50vw;
+    }
+    .contact {
+      font-size: 9vw;
     }
   }
 

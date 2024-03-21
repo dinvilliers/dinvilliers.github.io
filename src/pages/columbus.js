@@ -41,14 +41,14 @@ const Columbus = () => (
 	    </div>
 	    <div className="page-content">
 		    <div className="page-header">
-		    	<h2>An interactive map based off my favourite film - Columbus (2017) directed by Kogonada</h2>
+		    	<h2>An interactive map based off my favourite film - Columbus (2017)</h2>
 		    	<Link className="project-redirect" to="https://columbus.dinvilliers.com">Visit Site</Link>
 		    </div>
 		    	<p className="page-paragraph">
 		    		A passion project keeping me busy during the summer of COVID-19. I love architecture and film
-		    	   so it's no surprise my favourite film is about both. Jin (John Cho) finds himself in Columbus,
-		    	   Indiana - sort of an underrated modernist mecca in the midwest - after his father falls ill. Casey (Haley Lu Richardson) is a Columbus native and 
-		    	   architecture enthusiast. Somehow they both cross paths and explore the city, its relationship
+		    	   so it's no surprise my favourite film is about both. Directed by Kogonada, Jin (John Cho) finds himself in Columbus,
+		    	   Indiana - a sort of underrated modernist mecca in the midwest - after his father falls ill. Casey (Haley Lu Richardson) is a Columbus native and 
+		    	   architecture enthusiast. By happenstance, they both cross paths and explore the city, its relationship
 		    	   to architecture and their own dilemmas.
 		    	 </p>
 		    	 <div className="skills-table">

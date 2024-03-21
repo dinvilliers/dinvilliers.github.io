@@ -45,13 +45,14 @@ const Juneau = () => (
 	    </div>
 	    <div className="page-content">
 		    <div className="page-header">
-		    	<h2>A 2 column grid visual Tumblr theme</h2>
+		    	<h2>A Tumblr theme</h2>
 		    	<Link className="project-redirect" to="https://www.tumblr.com/theme/40763">Visit Site</Link>
 		    </div>
 		    	<p className="page-paragraph">
-		    		I created a customisable grid Tumblr theme which displays all post types. This was my first venture in
-		    		creating a Tumblr theme. I just wasn't happy with the Tumblr theme I was using so I decided to create one 
-		    		myself from scratch. The theme was accepted by Tumblr and is currently available to all users.
+		    		I created a customisable 2 column grid Tumblr theme which displays all post types. 
+		    		I just wasn't happy with the Tumblr theme I was using so I decided to create one 
+		    		myself from scratch. The theme was approved by Tumblr and is currently available to 
+		    		users all over the world.
 		    	 </p>
 		    	 <div className="skills-table">
 		    	  <p className="about-skill">Tools</p>
